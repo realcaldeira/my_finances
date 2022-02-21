@@ -8,7 +8,6 @@ interface HeaderProps {
 
 export function Header({ onOpenNewTransactionModal }: HeaderProps) {
 
-
   return (
     <Container>
       <Content>
@@ -16,8 +15,6 @@ export function Header({ onOpenNewTransactionModal }: HeaderProps) {
         <button type="button" onClick={onOpenNewTransactionModal}>
           Nova transação
         </button>
-
-
       </Content>
     </Container>
   )
