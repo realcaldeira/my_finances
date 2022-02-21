@@ -3,7 +3,8 @@
     "deposit",
     "income",
     "Props",
-    "transação"
+    "transação",
+    "transitions"
   ],
   "cSpell.language": "pt-BR",
   "cSpell.enableFiletypes": [
