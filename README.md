@@ -1,46 +1,61 @@
-# Getting Started with Create React App
+<h1><strong>My Finances - Web</strong></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./src/readme/dtmoney.gif" width="1280">
 
-## Available Scripts
 
-In the project directory, you can run:
+<br>
+<br>
+<strong><h2>🎯 Sobre</h2></strong>
 
-### `yarn start`
+<p>A proposta desse desenvolvimento consiste na implementação de um sistema web simples para que se possa calcular suas finanças na web.</p>
+<hr/>
+<br>
+ <strong><h2>🛠️ Tecnologias usadas</h2></strong>
+<p></p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[<li> <strong>React JS</strong></li>](https://pt-br.reactjs.org/)
+[<li> <strong>TypeScript</strong></li>](https://www.typescriptlang.org/)
+[<li> <strong>Styled Components</strong></li>](https://styled-components.com/)
+[<li> <strong>Mirage JS</strong></li>](https://miragejs.com/)
+[<li> <strong>Axios</strong></li>](https://axios-http.com/docs/intro)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<hr/>
+<br>
+<strong><h2>⚙️ Instalação</h2> </strong>
 
-### `yarn build`
+</hr>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<strong>🔙 Pré-requisito </strong>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Antes de começar, você precisará ter instalado em seu computadore as seguintes ferramentas: [Git](https://git-scm.com/) , [Node.js](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/) .
+Além disso, é bom ter um editor para trabalhar com seu código, como o [VSCode](https://code.visualstudio.com/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<hr/>
+<br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<strong>🔽 Clonando o repositório </strong>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<pre>via HTTPS
+$ git clone https://github.com/realcaldeira/movies.git </pre>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<strong>🖥️ Iniciando o aplicativo</strong>
 
-## Learn More
+<pre>
+# Acesse a pasta com comando <strong>cd </strong> 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Volte para a pasta anterior do aplicativo 
+$ cd ..
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Instale as dependências
+$ yarn
+
+# Inicie o projeto
+$ yarn start
+
+Este projeto foi feito com ❤ por Lucas Caldeira
+</pre>
+
