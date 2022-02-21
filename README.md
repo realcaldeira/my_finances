@@ -7,7 +7,7 @@
 <br>
 <strong><h2>🎯 Sobre</h2></strong>
 
-<p>A proposta desse desenvolvimento consiste na implementação de um sistema web simples para calcular suas finanças na web.</p>
+<p>A proposta desse desenvolvimento consiste na implementação de um sistema simples para calcular suas finanças na web.</p>
 <hr/>
 <br>
  <strong><h2>🛠️ Tecnologias usadas</h2></strong>
